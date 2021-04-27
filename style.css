@@ -3,7 +3,7 @@
     height: 100%;
     margin: 0;
 }
-a{
+*a{
     text-decoration: none;
     background-color: transparent;
     color:#ededed;
